@@ -1,2 +1,3 @@
 # Project-Module-1-JCDSVL-05-Purwadhika
-Aplikasi stok gudang sebagai tugas project module 1 program JCDSVL-05 2022
+Store goods sales application.
+This python application has 4 main features: create, read, update, and delete.
